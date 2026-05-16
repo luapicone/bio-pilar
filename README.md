@@ -1,6 +1,6 @@
 # bio-pilar
 
-Demo inmersiva construida sobre el shell de `bio-pilar`, adaptada con recursos públicos de **ICON Boulevard Caseros** de **Soldati Emprendimientos**.
+Demo inmersiva construida sobre el shell de `bio-pilar`, adaptada con recursos públicos reales de **BIO Pilar** y **Viviera Negocios Inmobiliarios**.
 
 ## Scripts
 
@@ -9,6 +9,6 @@ Demo inmersiva construida sobre el shell de `bio-pilar`, adaptada con recursos p
 
 ## Notas
 
-- Esta versión no replica un showroom existente del proyecto: toma recursos públicos (landing, brochure, renders y planos) para mostrar cómo podría verse una experiencia premium e inmersiva para una desarrolladora que aún no la tiene.
-- Se conservaron componentes del runtime base para navegación y transición visual.
-- Recursos fuente: `https://landing.soldatiemprendimientos.com/icon-boulverad-caseros-landing/`
+- Esta versión toma contenido público real del proyecto: web oficial, brochure 2026, tipologías y amenities.
+- Se reutiliza el runtime visual base para mostrar una experiencia premium de navegación, presentación y tipologías del proyecto.
+- Fuentes principales: `https://biopilar.com/bio-pilar-2/`, `https://www.viviera.com.ar/`, nota periodística local sobre el lanzamiento.

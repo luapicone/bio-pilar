@@ -22,26 +22,50 @@
     <meta property="og:url" content="/" />
 
     <script type="text/javascript">
-      function setFavicon(faviconUrl) {
-        const link = document.createElement('link')
-        link.type = 'image/png'
-        link.rel = 'icon'
-        link.sizes = '192x192'
-        link.href = faviconUrl
-        document.getElementsByTagName('head')[0].appendChild(link)
-      }
+      ;(() => {
+        const projectHost = 'www.nice-delta.com'
+        const projectPrefix = `/data/Project/${projectHost}/`
+        const projectMatcher = /\/data\/Project\/[^/]+\//g
 
-      function setAppleTouchIcon(faviconUrl) {
-        const link = document.createElement('link')
-        link.rel = 'apple-touch-icon'
-        link.href = faviconUrl
-        document.getElementsByTagName('head')[0].appendChild(link)
-      }
+        const rewriteUrl = (input) => {
+          if (typeof input !== 'string') return input
+          return input.replace(projectMatcher, projectPrefix)
+        }
 
-      const host = window.location.host
-      const faviconUrl = '/data/Project/www.nice-delta.com/favicon.png'
-      setFavicon(faviconUrl)
-      setAppleTouchIcon(faviconUrl)
+        const originalFetch = window.fetch?.bind(window)
+        if (originalFetch) {
+          window.fetch = (input, init) => {
+            if (typeof input === 'string') return originalFetch(rewriteUrl(input), init)
+            if (input instanceof Request) return originalFetch(new Request(rewriteUrl(input.url), input), init)
+            return originalFetch(input, init)
+          }
+        }
+
+        const originalOpen = XMLHttpRequest.prototype.open
+        XMLHttpRequest.prototype.open = function (method, url, ...rest) {
+          return originalOpen.call(this, method, rewriteUrl(url), ...rest)
+        }
+
+        function setFavicon(faviconUrl) {
+          const link = document.createElement('link')
+          link.type = 'image/png'
+          link.rel = 'icon'
+          link.sizes = '192x192'
+          link.href = faviconUrl
+          document.getElementsByTagName('head')[0].appendChild(link)
+        }
+
+        function setAppleTouchIcon(faviconUrl) {
+          const link = document.createElement('link')
+          link.rel = 'apple-touch-icon'
+          link.href = faviconUrl
+          document.getElementsByTagName('head')[0].appendChild(link)
+        }
+
+        const faviconUrl = `${projectPrefix}favicon.png`
+        setFavicon(faviconUrl)
+        setAppleTouchIcon(faviconUrl)
+      })()
     </script>
     <script type="module" crossorigin src="assets/index-RnkzLHSE.js"></script>
     <link rel="stylesheet" crossorigin href="assets/index-ZJcM8Iap.css">

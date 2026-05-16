@@ -1,16 +1,14 @@
 # bio-pilar
 
-Réplica estática del sitio publicado en `https://www.nice-delta.com/#/`.
+Réplica estática del sitio publicado en `https://showroom.bravante.gt/#/`.
 
 ## Scripts
 
 - `npm install`
-- `npm run dev`
 - `npm run build`
-- `npm run preview`
 
 ## Notas
 
-- El sitio original es una SPA compilada; esta réplica conserva el bundle publicado y los recursos necesarios bajo `public/`.
-- Se fijaron las rutas dinámicas dependientes del host para que funcionen localmente y en despliegues estáticos.
-- Fuente replicada: `https://www.nice-delta.com/#/`.
+- El sitio original es una SPA compilada; esta réplica conserva el bundle publicado y los recursos necesarios bajo `assets/` y `data/`.
+- Se fijaron las referencias dinámicas del proyecto para que funcione correctamente fuera del dominio original.
+- Fuente replicada: `https://showroom.bravante.gt/#/`.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #dc8d3d;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <polygon id="torre1" class="cls-1" points="963.6 115.9 963.6 108.4 1008.6 65.9 1028.7 69.8 1033.7 65.9 1077.3 74.7 1085.8 81.1 1187.4 100.3 1191.1 112.6 1176.6 330 1185.8 333.8 1185.8 346.2 1140 405.5 1073.6 389.3 1075.5 200 960 174.2 960 120.6 963.6 115.9"/>
+  <ellipse id="punto" class="cls-2" cx="1167.1" cy="246.6" rx="10.8" ry="10.9" transform="translate(339.5 1105.6) rotate(-58)"/>
+  <polygon id="torre2" class="cls-1" points="828.2 216.8 827.1 207.1 883.2 158 904.2 161.6 907 159 950 169.4 950 172 960 174.2 1075.5 200 1069.8 466.5 1031 522.6 836.3 475.6 824.4 220 828.2 216.8"/>
+  <ellipse id="punto-2" class="cls-2" cx="1054.2" cy="373.9" rx="10.8" ry="10.9" transform="translate(178.4 1069.7) rotate(-58)"/>
+  <polygon id="oficinas" class="cls-1" points="843.9 716.7 847 794.9 725.8 960 380 835.4 369.8 785.8 373.7 783.2 356.9 689.2 537 581.3 840.1 650.4 843.9 716.7"/>
+  <ellipse id="punto-3" class="cls-2" cx="570.8" cy="666.8" rx="10.8" ry="10.9" transform="translate(-297.2 797.5) rotate(-58)"/>
+</svg>

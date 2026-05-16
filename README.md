@@ -1,6 +1,6 @@
 # bio-pilar
 
-Réplica estática del sitio publicado en `https://showroom.bravante.gt/#/`.
+Demo inmersiva construida sobre el shell de `bio-pilar`, adaptada con recursos públicos de **ICON Boulevard Caseros** de **Soldati Emprendimientos**.
 
 ## Scripts
 
@@ -9,6 +9,6 @@ Réplica estática del sitio publicado en `https://showroom.bravante.gt/#/`.
 
 ## Notas
 
-- El sitio original es una SPA compilada; esta réplica conserva el bundle publicado y los recursos necesarios bajo `assets/` y `data/`.
-- Se fijaron las referencias dinámicas del proyecto para que funcione correctamente fuera del dominio original.
-- Fuente replicada: `https://showroom.bravante.gt/#/`.
+- Esta versión no replica un showroom existente del proyecto: toma recursos públicos (landing, brochure, renders y planos) para mostrar cómo podría verse una experiencia premium e inmersiva para una desarrolladora que aún no la tiene.
+- Se conservaron componentes del runtime base para navegación y transición visual.
+- Recursos fuente: `https://landing.soldatiemprendimientos.com/icon-boulverad-caseros-landing/`

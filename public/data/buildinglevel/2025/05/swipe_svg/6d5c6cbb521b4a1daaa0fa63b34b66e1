@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #000;
+      }
+
+      .cls-4, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        fill: #489a96;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-family: Roboto-Bold, Roboto;
+        font-size: 13.5px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <path id="L1" class="cls-1" d="M511.6,357l6.5,23.2,30.2,242.2,5.9,20.5h-5.4v8.6l-197.9,28.6-12.9-3.2-26.4-34.5-27-274.5c.5-2.9,3-14.6,14-23.2,10.5-8.2,21.7-8.2,24.8-8.1l188.2,20.5h0Z"/>
+  <polygon id="L2" class="cls-1" points="511.6 357 518.1 380.2 535.5 519.7 677.2 498.8 774.3 483.7 759.2 391 754.3 368.9 693.9 378.6 511.6 357"/>
+  <polygon id="L3" class="cls-1" points="754.3 368.9 774.3 483.7 966.3 454.1 1012.7 450.8 1001.9 348.9 1004.6 325.7 970.6 325.7 754.3 368.9"/>
+  <path id="L4" class="cls-1" d="M1004.6,325.7l-2.7,23.2,10.8,101.9,252.4-3.8,5.4-19.1h2.7l9.2-84.4c-.3-2.1-1.8-9-8.1-14.6-5.4-4.7-11.3-5.7-13.5-5.9l-256.2,2.7h0Z"/>
+  <path id="L5" class="cls-1" d="M1656.4,373.2c-1.3-.9-10.4-7.1-21.8-4-9.5,2.5-14.3,9.6-15.4,11.3l-16.2,26.7-57.4,195.8c-.3,1.2-3.2,15.9,7.3,26.7,8.1,8.4,21,11,32.4,6.5l181.2-38,20.2-20.2,9.7-17.8v-15.4l-140-171.5h0Z"/>
+  <polygon id="amenities" class="cls-1" points="677.2 498.8 690.7 601.3 693.6 627.8 339.3 681.4 308.6 637.7 284.6 367.8 298.6 344.6 319.9 336.8 0 336.8 0 536.9 57 920 1380.5 905.5 1219.7 756.4 1405.6 776 1419.3 621.5 1170.1 592.1 1114.2 588.9 1111.4 449.4 966.3 454.1 677.2 498.8"/>
+  <ellipse id="punto-4-2-6-3-6-8" class="cls-5" cx="410.8" cy="445.7" rx="6.9" ry="7"/>
+  <g id="info-107-4-2-6-3-6-8">
+    <path id="box-2-4-2-6-3-6-8" class="cls-2" d="M387.2,458.4l45.2.2c1.8,0,3.4,1.7,3.4,3.6v16.4c0,2.1-1.7,3.6-3.4,3.6l-45.2-.2c-1.8,0-3.4-1.7-3.4-3.6v-16.4c0-2.1,1.7-3.6,3.4-3.6h0Z"/>
+    <g class="cls-4">
+      <g class="cls-4">
+        <g class="cls-4">
+          <g class="cls-4">
+            <g class="cls-4">
+              <g class="cls-4">
+                <g class="cls-4">
+                  <g class="cls-4">
+                    <g class="cls-4">
+                      <g class="cls-4">
+                        <g class="cls-4">
+                          <g class="cls-4">
+                            <g class="cls-4">
+                              <g class="cls-4">
+                                <g class="cls-4">
+                                  <g class="cls-4">
+                                    <g class="cls-4">
+                                      <text class="cls-3" transform="translate(399.7 475.5) rotate(.5)"><tspan x="0" y="0">L-01</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="L1-marker" class="cls-1" d="M394.3,458.4v23.7h-7.3c-.2,0-1.6-.2-2.5-1.3-.7-1-.7-2-.7-2.3v-16.4c0-.2,0-1.9,1.4-2.9.7-.6,1.6-.7,1.9-.7h7.2Z"/>
+  </g>
+  <ellipse id="punto-4-2-6-3-6-8-2" class="cls-5" cx="650.7" cy="445.7" rx="6.9" ry="7"/>
+  <g id="info-107-4-2-6-3-6-8-2">
+    <path id="box-2-4-2-6-3-6-8-2" class="cls-2" d="M627.1,458.4l45.2.2c1.8,0,3.4,1.7,3.4,3.6v16.4c0,2.1-1.7,3.6-3.4,3.6l-45.2-.2c-1.8,0-3.4-1.7-3.4-3.6v-16.4c0-2.1,1.7-3.6,3.4-3.6h0Z"/>
+    <g class="cls-4">
+      <g class="cls-4">
+        <g class="cls-4">
+          <g class="cls-4">
+            <g class="cls-4">
+              <g class="cls-4">
+                <g class="cls-4">
+                  <g class="cls-4">
+                    <g class="cls-4">
+                      <g class="cls-4">
+                        <g class="cls-4">
+                          <g class="cls-4">
+                            <g class="cls-4">
+                              <g class="cls-4">
+                                <g class="cls-4">
+                                  <g class="cls-4">
+                                    <g class="cls-4">
+                                      <text class="cls-3" transform="translate(639.6 475.5) rotate(.5)"><tspan x="0" y="0">L-02</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="L2-marker" class="cls-1" d="M634.2,458.4v23.7h-7.3c-.2,0-1.6-.2-2.5-1.3-.7-1-.7-2-.7-2.3v-16.4c0-.2,0-1.9,1.4-2.9.7-.6,1.6-.7,1.9-.7h7.2,0Z"/>
+  </g>
+  <ellipse id="punto-4-2-6-3-6-8-3" class="cls-5" cx="879.1" cy="416.2" rx="6.9" ry="7"/>
+  <g id="info-107-4-2-6-3-6-8-3">
+    <path id="box-2-4-2-6-3-6-8-3" class="cls-2" d="M855.5,428.9l45.2.2c1.8,0,3.4,1.7,3.4,3.6v16.4c0,2.1-1.7,3.6-3.4,3.6l-45.2-.2c-1.8,0-3.4-1.7-3.4-3.6v-16.4c0-2.1,1.7-3.6,3.4-3.6h0Z"/>
+    <g class="cls-4">
+      <g class="cls-4">
+        <g class="cls-4">
+          <g class="cls-4">
+            <g class="cls-4">
+              <g class="cls-4">
+                <g class="cls-4">
+                  <g class="cls-4">
+                    <g class="cls-4">
+                      <g class="cls-4">
+                        <g class="cls-4">
+                          <g class="cls-4">
+                            <g class="cls-4">
+                              <g class="cls-4">
+                                <g class="cls-4">
+                                  <g class="cls-4">
+                                    <g class="cls-4">
+                                      <text class="cls-3" transform="translate(868 446) rotate(.5)"><tspan x="0" y="0">L-03</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="L3-marker" class="cls-1" d="M862.6,428.9v23.7h-7.3c-.2,0-1.6-.2-2.5-1.3-.7-1-.7-2-.7-2.3v-16.4c0-.2,0-1.9,1.4-2.9.7-.6,1.6-.7,1.9-.7h7.2,0Z"/>
+  </g>
+  <ellipse id="punto-4-2-6-3-6-8-4" class="cls-5" cx="1133.7" cy="394.5" rx="6.9" ry="7"/>
+  <g id="info-107-4-2-6-3-6-8-4">
+    <path id="box-2-4-2-6-3-6-8-4" class="cls-2" d="M1110.1,407.2l45.2.2c1.8,0,3.4,1.7,3.4,3.6v16.4c0,2.1-1.7,3.6-3.4,3.6l-45.2-.2c-1.8,0-3.4-1.7-3.4-3.6v-16.4c0-2.1,1.7-3.6,3.4-3.6h0Z"/>
+    <g class="cls-4">
+      <g class="cls-4">
+        <g class="cls-4">
+          <g class="cls-4">
+            <g class="cls-4">
+              <g class="cls-4">
+                <g class="cls-4">
+                  <g class="cls-4">
+                    <g class="cls-4">
+                      <g class="cls-4">
+                        <g class="cls-4">
+                          <g class="cls-4">
+                            <g class="cls-4">
+                              <g class="cls-4">
+                                <g class="cls-4">
+                                  <g class="cls-4">
+                                    <g class="cls-4">
+                                      <text class="cls-3" transform="translate(1122.6 424.3) rotate(.5)"><tspan x="0" y="0">L-04</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="L4-marker" class="cls-1" d="M1117.2,407.2v23.7h-7.3c-.2,0-1.6-.2-2.5-1.3-.7-1-.7-2-.7-2.3v-16.4c0-.2,0-1.9,1.4-2.9.7-.6,1.6-.7,1.9-.7h7.2Z"/>
+  </g>
+  <ellipse id="punto-4-2-6-3-6-8-5" class="cls-5" cx="1650.7" cy="510.2" rx="6.9" ry="7"/>
+  <g id="info-107-4-2-6-3-6-8-5">
+    <path id="box-2-4-2-6-3-6-8-5" class="cls-2" d="M1627,522.9l45.2.2c1.8,0,3.4,1.7,3.4,3.6v16.4c0,2.1-1.7,3.6-3.4,3.6l-45.2-.2c-1.8,0-3.4-1.7-3.4-3.6v-16.4c0-2.1,1.7-3.6,3.4-3.6h0Z"/>
+    <g class="cls-4">
+      <g class="cls-4">
+        <g class="cls-4">
+          <g class="cls-4">
+            <g class="cls-4">
+              <g class="cls-4">
+                <g class="cls-4">
+                  <g class="cls-4">
+                    <g class="cls-4">
+                      <g class="cls-4">
+                        <g class="cls-4">
+                          <g class="cls-4">
+                            <g class="cls-4">
+                              <g class="cls-4">
+                                <g class="cls-4">
+                                  <g class="cls-4">
+                                    <g class="cls-4">
+                                      <text class="cls-3" transform="translate(1639.6 540) rotate(.5)"><tspan x="0" y="0">L-05</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="L5-marker" class="cls-1" d="M1634.2,522.9v23.7h-7.3c-.2,0-1.6-.2-2.5-1.3-.7-1-.7-2-.7-2.3v-16.4c0-.2,0-1.9,1.4-2.9.7-.6,1.6-.7,1.9-.7h7.2Z"/>
+  </g>
+  <ellipse id="punto-4-2-6-3-6-8-6" class="cls-5" cx="892.9" cy="640.9" rx="6.9" ry="7"/>
+  <g id="info-107-4-2-6-3-6-8-6">
+    <path id="box-2-4-2-6-3-6-8-6" class="cls-2" d="M849.2,653.6l88.6.2c3.6,0,6.7,1.7,6.7,3.6v16.4c0,2.1-3.3,3.6-6.7,3.6l-88.6-.2c-3.6,0-6.7-1.7-6.7-3.6v-16.4c0-2.1,3.3-3.6,6.7-3.6h0Z"/>
+    <g class="cls-4">
+      <g class="cls-4">
+        <g class="cls-4">
+          <g class="cls-4">
+            <g class="cls-4">
+              <g class="cls-4">
+                <g class="cls-4">
+                  <g class="cls-4">
+                    <g class="cls-4">
+                      <g class="cls-4">
+                        <g class="cls-4">
+                          <g class="cls-4">
+                            <g class="cls-4">
+                              <g class="cls-4">
+                                <g class="cls-4">
+                                  <g class="cls-4">
+                                    <g class="cls-4">
+                                      <text class="cls-3" transform="translate(859.8 670.7) rotate(.5)"><tspan x="0" y="0">AMENITIES</tspan></text>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
